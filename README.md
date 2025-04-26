@@ -264,7 +264,9 @@ cView.snp.makeConstraints { make in
 
 ```
 pod 'AdapterSwift'
+```
 
+```
 dependencies: [
     .package(url: "https://github.com/mrstao/AdapterSwift.git", branch: "main")
 ]
