@@ -1,7 +1,7 @@
 
 
 import Foundation
-
+import UIKit
 
 /** 要适配的类型
  * Int
